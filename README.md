@@ -1,5 +1,5 @@
 # Snakegame
-Snake game made using Python3. This is the first game I have made using the pygame module and KiVy. It is an extremely rudimentary snake game, found on old mobile devices. The purpose and working of the game is simple: eat the food to increase your score and length, and you lose if you bang into any of the 4 surrounding boundaries.
+This is the first game I have made using the pygame module and KiVy. It is an extremely rudimentary snake game, similar to that found on old mobile devices. The purpose and working of the game is simple: eat the food to increase your score and length, and you lose if you bang into any of the 4 surrounding boundaries.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Snake game made using Python3. This is the first game I have made using the pyga
 Primarily, a stable version of Python3 is required on the system. In addition, the pygame module is also required before the program can be run.
 In case this module is missing, download the same by typing in the terminal or command prompt:
 ```
-pip install pygame
+$ pip install pygame
 ```
 We should now be good to go
 
