@@ -7,9 +7,9 @@ Snake game made using Python3. This is the first game I have made using the pyga
 
 Primarily, a stable version of Python3 is required on the system. In addition, the pygame module is also required before the program can be run.
 In case this module is missing, download the same by typing in the terminal or command prompt:
-'''
+```
 pip install pygame
-'''
+```
 We should now be good to go
 
 ## Installing
