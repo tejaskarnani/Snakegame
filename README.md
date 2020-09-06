@@ -1,8 +1,6 @@
 # Snakegame
 This is the first game I have made using the pygame module and KiVy. It is an extremely rudimentary snake game, similar to that found on old mobile devices. The purpose and working of the game is simple: eat the food to increase your score and length, and you lose if you bang into any of the 4 surrounding boundaries.
 
-## Getting Started
-
 ## Prerequisites
 
 Primarily, a stable version of Python3 is required on the system. In addition, the pygame module is also required before the program can be run.
@@ -20,7 +18,8 @@ It will also display a score counter.
 The snake is to be controlled using the 4 arrow keys.
 
 The game will look something like this
-![](game_screenshot.png)
+
+![](game_screenshot.png = 250x250)
 
 ## Built Using
 Kivy on Python3
