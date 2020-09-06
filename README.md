@@ -19,7 +19,7 @@ The snake is to be controlled using the 4 arrow keys.
 
 The game will look something like this
 
-![](game_screenshot.png =250x250)
+![](game_screenshot.png | width=250)
 
 ## Built Using
 Kivy on Python3
