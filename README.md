@@ -27,6 +27,8 @@ Kivy on Python3
 ## Author
 
 Tejas Karnani
+
 Please feel free to contact me in case any issues are faced with the running of this program, mail- tejaskarnani1@gmail.com
+
 Also please check out my other repositories displaying my interesting projects!
 
